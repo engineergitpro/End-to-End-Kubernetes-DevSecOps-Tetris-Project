@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: ikericookies/tetrisv2:4
+        image: ikericookies/tetrisv2:101
         ports:
         - containerPort: 3000
 ---
